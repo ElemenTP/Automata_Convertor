@@ -19,3 +19,12 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+#Dart compilation product
+*.exe
+
+#DFA input
+*.csv
+
+#Visual Studio Code DBG config
+.vscode/launch.json
